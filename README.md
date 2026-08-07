@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Mridull-Notes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
