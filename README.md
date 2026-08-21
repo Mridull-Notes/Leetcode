@@ -26,6 +26,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Mridull-Notes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
