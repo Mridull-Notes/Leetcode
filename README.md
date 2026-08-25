@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridull-Notes/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Mridull-Notes/Leetcode/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0075-sort-colors](https://github.com/Mridull-Notes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
