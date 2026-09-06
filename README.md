@@ -39,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mridull-Notes/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mridull-Notes/Leetcode/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
