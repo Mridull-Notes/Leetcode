@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mridull-Notes/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
 ## Enumeration
@@ -144,6 +145,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
