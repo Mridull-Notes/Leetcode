@@ -38,9 +38,7 @@ public:
         sum+=A[i];
         }
 
-        if(days==1){
-            return sum;
-        }
+        
         
         int n=A.size()-1;
         int lo=max;
