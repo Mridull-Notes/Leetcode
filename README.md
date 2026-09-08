@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Mridull-Notes/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Mridull-Notes/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mridull-Notes/Leetcode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
@@ -86,6 +87,7 @@
 | [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
