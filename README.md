@@ -47,6 +47,7 @@
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Mridull-Notes/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridull-Notes/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -160,6 +161,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mridull-Notes/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridull-Notes/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
