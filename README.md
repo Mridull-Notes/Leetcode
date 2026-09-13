@@ -33,6 +33,7 @@
 | [0048-rotate-image](https://github.com/Mridull-Notes/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Mridull-Notes/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
 | [0861-score-after-flipping-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
