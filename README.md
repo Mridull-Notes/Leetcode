@@ -20,6 +20,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridull-Notes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Mridull-Notes/Leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Mridull-Notes/Leetcode/tree/master/0443-string-compression) |
 ## Array
