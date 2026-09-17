@@ -30,6 +30,7 @@
 | [0031-next-permutation](https://github.com/Mridull-Notes/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mridull-Notes/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -197,5 +198,6 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
