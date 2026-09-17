@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridull-Notes/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Mridull-Notes/Leetcode/tree/master/0443-string-compression) |
 ## Array
@@ -127,6 +128,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
@@ -197,7 +199,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
