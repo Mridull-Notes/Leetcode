@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mridull-Notes/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mridull-Notes/Leetcode/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
