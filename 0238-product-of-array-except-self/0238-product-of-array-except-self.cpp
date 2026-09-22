@@ -4,23 +4,23 @@ public:
         vector<int>ans(nums.size(),1);
         vector<int>prefix(nums.size(),1);
         vector<int>suffix(nums.size(),1);
-        
-       for(int i=1;i<nums.size();i++){
-        prefix[i]=prefix[i-1]*nums[i-1];
-       }
-       for(int j=nums.size()-2;j>=0;j--){
-        suffix[j]=suffix[j+1]*nums[j+1];
+        int i=0;
+        int j=nums.size()-1;
+        int prepro=1;
+        int suffpro=1;
+        while(i<nums.size() && j>=0){
+            prefix[i]=prepro;
+            suffix[j]=suffpro;
+            prepro*=nums[i];
+            suffpro*=nums[j];
+            i++;
+            j--;
+        }
 
-       }
+        for(int i=0; i<nums.size(); i++){
+            ans[i]=prefix[i]*suffix[i];
+        }
 
-       for(int x=0;x<nums.size();x++){
-        ans[x]=prefix[x]*suffix[x];
-       }
-
-       return ans;
-
-       
-        
-        
-    }
+        return ans;
+    } 
 };
