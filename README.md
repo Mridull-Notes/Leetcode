@@ -23,6 +23,7 @@
 | [0038-count-and-say](https://github.com/Mridull-Notes/Leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Mridull-Notes/Leetcode/tree/master/0443-string-compression) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Mridull-Notes/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Mridull-Notes/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Math
 |  |
 | ------- |
