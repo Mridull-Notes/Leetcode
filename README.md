@@ -56,6 +56,7 @@
 | [0867-transpose-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mridull-Notes/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridull-Notes/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1052-grumpy-bookstore-owner](https://github.com/Mridull-Notes/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/Mridull-Notes/Leetcode/tree/master/1402-reducing-dishes) |
 | [1470-shuffle-the-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/Mridull-Notes/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
