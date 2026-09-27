@@ -56,6 +56,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mridull-Notes/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mridull-Notes/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridull-Notes/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mridull-Notes/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/Mridull-Notes/Leetcode/tree/master/1402-reducing-dishes) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mridull-Notes/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridull-Notes/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -188,6 +190,7 @@
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mridull-Notes/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mridull-Notes/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridull-Notes/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Mridull-Notes/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -213,6 +216,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mridull-Notes/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mridull-Notes/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Heap (Priority Queue)
 |  |
