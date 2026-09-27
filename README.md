@@ -45,6 +45,7 @@
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -95,6 +96,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -180,6 +182,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -208,6 +211,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mridull-Notes/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Heap (Priority Queue)
