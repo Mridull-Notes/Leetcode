@@ -66,6 +66,7 @@
 | [1929-concatenation-of-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Mridull-Notes/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mridull-Notes/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0867-transpose-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
