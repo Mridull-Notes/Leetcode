@@ -113,6 +113,7 @@
 | [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [0507-perfect-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mridull-Notes/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
