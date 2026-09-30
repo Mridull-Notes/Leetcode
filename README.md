@@ -116,6 +116,7 @@
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Mridull-Notes/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mridull-Notes/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -159,6 +160,7 @@
 | [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
+| [0650-2-keys-keyboard](https://github.com/Mridull-Notes/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/Mridull-Notes/Leetcode/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
