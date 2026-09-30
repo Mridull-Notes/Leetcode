@@ -96,6 +96,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Mridull-Notes/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0507-perfect-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mridull-Notes/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
@@ -125,19 +127,23 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Quicksort
 |  |
 | ------- |
@@ -246,4 +252,8 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mridull-Notes/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
