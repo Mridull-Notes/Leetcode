@@ -67,6 +67,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Mridull-Notes/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2614-prime-in-diagonal](https://github.com/Mridull-Notes/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3238-find-the-number-of-winning-players](https://github.com/Mridull-Notes/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
+| [3238-find-the-number-of-winning-players](https://github.com/Mridull-Notes/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Trie
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
+| [3238-find-the-number-of-winning-players](https://github.com/Mridull-Notes/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
