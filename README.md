@@ -261,4 +261,8 @@
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Mridull-Notes/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Mridull-Notes/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
