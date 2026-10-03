@@ -10,28 +10,15 @@
  */
 class Solution {
 public:
-   ListNode* dispalyele(int size,ListNode* head){
-        int n=size/2;
-        ListNode* temp;
-        temp=head;
-        for(int i=1; i<=n; i++ ){
-            temp=temp->next;
-        }
-        return temp;
-        
-       
-        
-    }
+   
     ListNode* middleNode(ListNode* head) {
-        int size=0;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            size++;
-           
-          
-            temp=temp->next;
+      ListNode* slow=head;
+      ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        
-       return dispalyele(size,head);
+        return slow;
+
     }
 };
