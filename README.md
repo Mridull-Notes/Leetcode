@@ -54,6 +54,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
@@ -179,6 +180,7 @@
 | [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0650-2-keys-keyboard](https://github.com/Mridull-Notes/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/Mridull-Notes/Leetcode/tree/master/1402-reducing-dishes) |
 ## Stack
