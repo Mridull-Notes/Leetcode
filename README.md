@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mridull-Notes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mridull-Notes/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mridull-Notes/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -91,6 +92,7 @@
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [3238-find-the-number-of-winning-players](https://github.com/Mridull-Notes/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Trie
 |  |
@@ -106,6 +108,7 @@
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mridull-Notes/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1402-reducing-dishes](https://github.com/Mridull-Notes/Leetcode/tree/master/1402-reducing-dishes) |
@@ -134,6 +137,7 @@
 | [0069-sqrtx](https://github.com/Mridull-Notes/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mridull-Notes/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Mridull-Notes/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -213,6 +217,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mridull-Notes/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Mridull-Notes/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
@@ -223,6 +228,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mridull-Notes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mridull-Notes/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
