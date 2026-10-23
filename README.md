@@ -48,6 +48,7 @@
 | [0040-combination-sum-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mridull-Notes/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Mridull-Notes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Mridull-Notes/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mridull-Notes/Leetcode/tree/master/0078-subsets) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mridull-Notes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridull-Notes/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Mridull-Notes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mridull-Notes/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0650-2-keys-keyboard](https://github.com/Mridull-Notes/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mridull-Notes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Mridull-Notes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Mridull-Notes/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mridull-Notes/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
