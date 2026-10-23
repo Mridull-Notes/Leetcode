@@ -65,6 +65,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Mridull-Notes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mridull-Notes/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mridull-Notes/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Mridull-Notes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mridull-Notes/Leetcode/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@
 | [0217-contains-duplicate](https://github.com/Mridull-Notes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mridull-Notes/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mridull-Notes/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mridull-Notes/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/Mridull-Notes/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Trie
 |  |
